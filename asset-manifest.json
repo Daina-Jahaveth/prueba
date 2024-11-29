@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GitReactC/static/css/main.506c684d.css",
+    "main.js": "/GitReactC/static/js/main.7c09321f.js",
+    "index.html": "/GitReactC/index.html",
+    "main.506c684d.css.map": "/GitReactC/static/css/main.506c684d.css.map",
+    "main.7c09321f.js.map": "/GitReactC/static/js/main.7c09321f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.506c684d.css",
+    "static/js/main.7c09321f.js"
+  ]
+}
